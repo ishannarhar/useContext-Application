@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+header,
+main {
+  font-size: 2rem;
+  font-weight: 700;
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+}
+header {
+  align-content: center;
+}
+h1 {
+  font-weight: 900;
+  margin: 0;
+  font-size: 6rem;
+}
+main {
+  align-items: flex-start;
+}
+main img {
+  width: 40%;
+}
